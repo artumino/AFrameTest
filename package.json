@@ -17,7 +17,7 @@
     "coffeeify": "^3.0.1",
     "coffeescript": "^2.5.1",
     "envify": "^4.1.0",
-    "ghpages": "0.0.3"
+    "ghpages": "0.0.10"
   },
   "keywords": [
     "aframe",
